@@ -1,0 +1,24 @@
+1.open Xampp
+2.click to start button of sql and apache
+3.click to file explorer
+4.htdocs->create new folder(lab-/lab-6) or just paste the lab-5/ lab-6 folder given in github.
+open in notepad++
+
+ 
+for Database connection:
+1. go to "http://localhost/phpmyadmin/" in browser
+2.new->give database name("infodb" fo lab-5 and  "result-process" for lab-6)-> click to create.
+3.give table name ("user_info" for lab-5 and "student" for lab-6) give number of column for lab-5(9) for lab-6(8),
+4.give column name as follows in the code 
+for lab-5
+    id(make primary key and click in ai for auto increment ,
+	full_name, email, bio, gender, skills, preferences, password,country
+	for lab -6
+	name,roll,semester,physics,software,networking,toc,embedded
+	click in save.
+	
+	
+	
+	for show the site 
+	click "http://localhost/lab-5/
+	http://localhost/lab-6/
